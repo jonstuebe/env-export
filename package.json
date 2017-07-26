@@ -1,6 +1,6 @@
 {
   "name": "env-export",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "exports .env files to array/object",
   "main": "src/index.js",
   "author": "Jon Stuebe",
