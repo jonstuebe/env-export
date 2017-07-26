@@ -1,13 +1,10 @@
 {
   "name": "env-export",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "exports .env files to array/object",
   "main": "src/index.js",
   "author": "Jon Stuebe",
   "license": "MIT",
-  "engines": {
-    "node": "7.6.0"
-  },
   "bin": {
     "env-export": "bin/cli.js"
   },
