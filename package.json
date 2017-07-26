@@ -1,0 +1,22 @@
+{
+  "name": "env-export",
+  "version": "0.1.0",
+  "description": "exports .env files to array/object",
+  "main": "src/index.js",
+  "author": "Jon Stuebe",
+  "license": "MIT",
+  "engines": {
+    "node": "7.6.0"
+  },
+  "bin": {
+    "env-export": "bin/cli.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "commander": "^2.11.0",
+    "prettier": "^1.5.3"
+  }
+}
